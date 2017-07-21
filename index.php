@@ -4,7 +4,7 @@
 <head>
     
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="GALERIA AV3" />
+    <meta name="description" content="GALERIA 3" />
     <meta name="robots" content="index, follow" />
     <meta name="author" content=", Raysse Cutrim " />
     <script src="ajax/jquery.js"></script>
